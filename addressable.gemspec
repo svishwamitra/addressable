@@ -7,8 +7,8 @@ require "addressable/version"
 Gem::Specification.new do |s|
   s.name        = "addressable"
   s.version     = Addressable::VERSION
-  s.authors     = ["TODO: Your name"]
-  s.email       = ["TODO: Your email"]
+  s.authors     = ["Srikanth Vishwamitra", "Milind Kanchan"]
+  s.email       = ["svishwamitra@gmail.com", "milindkanchan@gmail.com"]
   s.homepage    = "TODO"
   s.summary     = "TODO: Summary of Addressable."
   s.description = "TODO: Description of Addressable."
